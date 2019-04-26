@@ -1,0 +1,381 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		91035872225D0FE100CBFD73 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91035871225D0FE100CBFD73 /* CustomViewController.swift */; };
+		91035874225D104800CBFD73 /* ViewControllerItem1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91035873225D104800CBFD73 /* ViewControllerItem1.swift */; };
+		91035876225D105300CBFD73 /* ViewControllerItem2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91035875225D105300CBFD73 /* ViewControllerItem2.swift */; };
+		918D2E11227343F600A6390E /* Без названия (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 918D2E10227343F600A6390E /* Без названия (1).jpeg */; };
+		918D2E132273441E00A6390E /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 918D2E122273441E00A6390E /* images.jpeg */; };
+		918D2E152273442300A6390E /* Без названия.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 918D2E142273442300A6390E /* Без названия.jpeg */; };
+		91A518E52272037400FA375D /* знаки in Resources */ = {isa = PBXBuildFile; fileRef = 91A518E42272037400FA375D /* знаки */; };
+		91A518E72272038500FA375D /* Описание знаков in Resources */ = {isa = PBXBuildFile; fileRef = 91A518E62272038500FA375D /* Описание знаков */; };
+		91C7DD6C227264BA0063E9E0 /* Slim+Feyerverk+minus_muzlishko.ru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 91C7DD6B227264B90063E9E0 /* Slim+Feyerverk+minus_muzlishko.ru.mp3 */; };
+		91E167952267315B000E71CD /* Смоки Мо - Было и было (minus).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 91E167942267315B000E71CD /* Смоки Мо - Было и было (minus).mp3 */; };
+		91F2F1AC225CE8D900D93BB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F2F1AB225CE8D900D93BB2 /* AppDelegate.swift */; };
+		91F2F1AE225CE8D900D93BB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F2F1AD225CE8D900D93BB2 /* ViewController.swift */; };
+		91F2F1B1225CE8D900D93BB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91F2F1AF225CE8D900D93BB2 /* Main.storyboard */; };
+		91F2F1B3225CE8DA00D93BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91F2F1B2225CE8DA00D93BB2 /* Assets.xcassets */; };
+		91F2F1B6225CE8DA00D93BB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91F2F1B4225CE8DA00D93BB2 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		91035871225D0FE100CBFD73 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
+		91035873225D104800CBFD73 /* ViewControllerItem1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerItem1.swift; sourceTree = "<group>"; };
+		91035875225D105300CBFD73 /* ViewControllerItem2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerItem2.swift; sourceTree = "<group>"; };
+		918D2E10227343F600A6390E /* Без названия (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Без названия (1).jpeg"; sourceTree = "<group>"; };
+		918D2E122273441E00A6390E /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		918D2E142273442300A6390E /* Без названия.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Без названия.jpeg"; sourceTree = "<group>"; };
+		91A518E42272037400FA375D /* знаки */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "знаки"; sourceTree = "<group>"; };
+		91A518E62272038500FA375D /* Описание знаков */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Описание знаков"; sourceTree = "<group>"; };
+		91C7DD6B227264B90063E9E0 /* Slim+Feyerverk+minus_muzlishko.ru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Slim+Feyerverk+minus_muzlishko.ru.mp3"; sourceTree = "<group>"; };
+		91C7DD6D227266640063E9E0 /* doc_2019-03-29_16-34-15.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "doc_2019-03-29_16-34-15.mp4"; sourceTree = "<group>"; };
+		91E167942267315B000E71CD /* Смоки Мо - Было и было (minus).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Смоки Мо - Было и было (minus).mp3"; sourceTree = "<group>"; };
+		91F2F1A8225CE8D900D93BB2 /* ZOLTAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZOLTAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		91F2F1AB225CE8D900D93BB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		91F2F1AD225CE8D900D93BB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		91F2F1B0225CE8D900D93BB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		91F2F1B2225CE8DA00D93BB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		91F2F1B5225CE8DA00D93BB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		91F2F1B7225CE8DA00D93BB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		91F2F1A5225CE8D900D93BB2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		91F2F19F225CE8D900D93BB2 = {
+			isa = PBXGroup;
+			children = (
+				91F2F1AA225CE8D900D93BB2 /* ZOLTAR */,
+				91F2F1A9225CE8D900D93BB2 /* Products */,
+				918D2E142273442300A6390E /* Без названия.jpeg */,
+				918D2E10227343F600A6390E /* Без названия (1).jpeg */,
+				91A518E62272038500FA375D /* Описание знаков */,
+				91A518E42272037400FA375D /* знаки */,
+			);
+			sourceTree = "<group>";
+		};
+		91F2F1A9225CE8D900D93BB2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				91F2F1A8225CE8D900D93BB2 /* ZOLTAR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		91F2F1AA225CE8D900D93BB2 /* ZOLTAR */ = {
+			isa = PBXGroup;
+			children = (
+				91F2F1AB225CE8D900D93BB2 /* AppDelegate.swift */,
+				91F2F1AD225CE8D900D93BB2 /* ViewController.swift */,
+				91035873225D104800CBFD73 /* ViewControllerItem1.swift */,
+				91035875225D105300CBFD73 /* ViewControllerItem2.swift */,
+				91035871225D0FE100CBFD73 /* CustomViewController.swift */,
+				91F2F1AF225CE8D900D93BB2 /* Main.storyboard */,
+				91F2F1B2225CE8DA00D93BB2 /* Assets.xcassets */,
+				91E167942267315B000E71CD /* Смоки Мо - Было и было (minus).mp3 */,
+				91C7DD6B227264B90063E9E0 /* Slim+Feyerverk+minus_muzlishko.ru.mp3 */,
+				91C7DD6D227266640063E9E0 /* doc_2019-03-29_16-34-15.mp4 */,
+				91F2F1B4225CE8DA00D93BB2 /* LaunchScreen.storyboard */,
+				91F2F1B7225CE8DA00D93BB2 /* Info.plist */,
+				918D2E122273441E00A6390E /* images.jpeg */,
+			);
+			path = ZOLTAR;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		91F2F1A7225CE8D900D93BB2 /* ZOLTAR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91F2F1BA225CE8DA00D93BB2 /* Build configuration list for PBXNativeTarget "ZOLTAR" */;
+			buildPhases = (
+				91F2F1A4225CE8D900D93BB2 /* Sources */,
+				91F2F1A5225CE8D900D93BB2 /* Frameworks */,
+				91F2F1A6225CE8D900D93BB2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ZOLTAR;
+			productName = Gradient;
+			productReference = 91F2F1A8225CE8D900D93BB2 /* ZOLTAR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		91F2F1A0225CE8D900D93BB2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Алек Мак";
+				TargetAttributes = {
+					91F2F1A7225CE8D900D93BB2 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = 91F2F1A3225CE8D900D93BB2 /* Build configuration list for PBXProject "ZOLTAR" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 91F2F19F225CE8D900D93BB2;
+			productRefGroup = 91F2F1A9225CE8D900D93BB2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				91F2F1A7225CE8D900D93BB2 /* ZOLTAR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		91F2F1A6225CE8D900D93BB2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91C7DD6C227264BA0063E9E0 /* Slim+Feyerverk+minus_muzlishko.ru.mp3 in Resources */,
+				91F2F1B6225CE8DA00D93BB2 /* LaunchScreen.storyboard in Resources */,
+				918D2E132273441E00A6390E /* images.jpeg in Resources */,
+				918D2E11227343F600A6390E /* Без названия (1).jpeg in Resources */,
+				918D2E152273442300A6390E /* Без названия.jpeg in Resources */,
+				91F2F1B3225CE8DA00D93BB2 /* Assets.xcassets in Resources */,
+				91F2F1B1225CE8D900D93BB2 /* Main.storyboard in Resources */,
+				91E167952267315B000E71CD /* Смоки Мо - Было и было (minus).mp3 in Resources */,
+				91A518E52272037400FA375D /* знаки in Resources */,
+				91A518E72272038500FA375D /* Описание знаков in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		91F2F1A4225CE8D900D93BB2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91035872225D0FE100CBFD73 /* CustomViewController.swift in Sources */,
+				91F2F1AE225CE8D900D93BB2 /* ViewController.swift in Sources */,
+				91035876225D105300CBFD73 /* ViewControllerItem2.swift in Sources */,
+				91F2F1AC225CE8D900D93BB2 /* AppDelegate.swift in Sources */,
+				91035874225D104800CBFD73 /* ViewControllerItem1.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		91F2F1AF225CE8D900D93BB2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				91F2F1B0225CE8D900D93BB2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		91F2F1B4225CE8DA00D93BB2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				91F2F1B5225CE8DA00D93BB2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		91F2F1B8225CE8DA00D93BB2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		91F2F1B9225CE8DA00D93BB2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		91F2F1BB225CE8DA00D93BB2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Gradient/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.makua.Gradient;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		91F2F1BC225CE8DA00D93BB2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Gradient/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.makua.Gradient;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		91F2F1A3225CE8D900D93BB2 /* Build configuration list for PBXProject "ZOLTAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91F2F1B8225CE8DA00D93BB2 /* Debug */,
+				91F2F1B9225CE8DA00D93BB2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91F2F1BA225CE8DA00D93BB2 /* Build configuration list for PBXNativeTarget "ZOLTAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91F2F1BB225CE8DA00D93BB2 /* Debug */,
+				91F2F1BC225CE8DA00D93BB2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 91F2F1A0225CE8D900D93BB2 /* Project object */;
+}
